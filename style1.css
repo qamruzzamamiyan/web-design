@@ -1,0 +1,35 @@
+.block-menu a {
+    display: block;
+    background-color: blue;
+    color:white;
+    text-decoration: none;
+    margin: 5px;
+}
+.inline-Menu a {
+    display: inline;
+    background-color:green ;
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+}
+.inline-block a {
+    display: inline-block ;
+    color: white;
+    margin: 5px;
+    text-decoration: none;
+    width: 50px; 
+    background-color: blueviolet;
+}
+.float a{
+    float: left;
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+    background-color: orange;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+}
